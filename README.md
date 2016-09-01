@@ -1,1 +1,1 @@
-# nm-install-script
+# nightmare install script
